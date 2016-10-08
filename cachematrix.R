@@ -1,4 +1,4 @@
-## Here are two functions to cache a matrix and cache the 
+## Here are two functions to reverse a matrix and cache the 
 ## result for further calculations
 
 ## makeCacheMatrix 
